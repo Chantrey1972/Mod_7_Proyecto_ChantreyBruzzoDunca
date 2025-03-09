@@ -71,19 +71,20 @@ warnings.filterwarnings('ignore')
 
 Para instalar y ejecutar el proyecto en tu máquina local, sigue estos pasos:
 
-# Clonar el repositorio
+-  Clonar el repositorio
 git clone [https://github.com/tu_usuario/proyecto-oscar.git](https://github.com/Chantrey1972/Mod_7_Proyecto_ChantreyBruzzoDuncam)
 
-# Navegar al directorio del proyecto
+- Navegar al directorio del proyecto
 cd proyecto-oscar
 
-# Instalar las dependencias
+- Instalar las dependencias
+
 pip install pandas numpy scikit-learn matplotlib
 
-# Ejecutar el script
+- Ejecutar el script
 python proyecto_7_final.py
 
-# Mod_7_Proyecto_ChantreyBruzzoDuncam
+- Mod_7_Proyecto_ChantreyBruzzoDuncam
 Proyecto 7 bootcamp
 
 
