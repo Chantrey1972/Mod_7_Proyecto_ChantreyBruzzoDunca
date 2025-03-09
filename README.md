@@ -13,10 +13,13 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 Necesitarás Python 3 y las siguientes bibliotecas de Python instaladas en tu máquina:
 
 import pandas as pd
+
 import numpy as np
 
 # GRAFICOS
 
 import matplotlib.pyplot as plt
+
 from matplotlib import style
+
 import seaborn as sns
