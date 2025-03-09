@@ -16,10 +16,53 @@ import pandas as pd
 
 import numpy as np
 
-# GRAFICOS
+## GRAFICOS
 
 import matplotlib.pyplot as plt
 
 from matplotlib import style
 
 import seaborn as sns
+
+## PREPROCESADO Y MODELADO
+
+from scipy.stats import pearsonr
+
+from sklearn.model_selection import train_test_split
+
+from sklearn.metrics import mean_squared_error
+
+from sklearn.linear_model import LinearRegression
+
+from sklearn.linear_model import Ridge
+
+from sklearn.linear_model import Lasso
+
+from sklearn.linear_model import ElasticNet
+
+from sklearn.linear_model import RidgeCV
+
+from sklearn.linear_model import LassoCV
+
+from sklearn.linear_model import ElasticNetCV
+
+from sklearn.linear_model import LogisticRegression
+
+from sklearn import preprocessing
+
+from sklearn.preprocessing import LabelEncoder
+
+from sklearn import metrics
+
+from sklearn.model_selection import train_test_split, GridSearchCV
+
+from sklearn.ensemble import RandomForestClassifier
+
+from sklearn.metrics import confusion_matrix, accuracy_score, f1_score, classification_report
+
+from sklearn.impute import SimpleImputer
+
+import warnings
+
+warnings.filterwarnings('ignore')
+
