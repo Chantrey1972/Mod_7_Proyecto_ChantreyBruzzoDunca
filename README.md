@@ -79,7 +79,7 @@ cd proyecto-oscar
 
 - Instalar las dependencias
 
-pip install pandas numpy scikit-learn matplotlib
+   pip install pandas numpy scikit-learn matplotlib
 
 - Ejecutar el script
 python proyecto_7_final.py
