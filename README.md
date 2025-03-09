@@ -67,6 +67,8 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
+
+
 ### INSTALACIÓN
 
 Para instalar y ejecutar el proyecto en tu máquina local, sigue estos pasos:
