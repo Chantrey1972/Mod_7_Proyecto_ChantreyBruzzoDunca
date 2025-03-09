@@ -16,7 +16,7 @@ import pandas as pd
 
 import numpy as np
 
-### GRAFICOS
+- GRAFICOS
 
 import matplotlib.pyplot as plt
 
@@ -24,7 +24,7 @@ from matplotlib import style
 
 import seaborn as sns
 
-### PREPROCESADO Y MODELADO
+- PREPROCESADO Y MODELADO
 
 from scipy.stats import pearsonr
 
