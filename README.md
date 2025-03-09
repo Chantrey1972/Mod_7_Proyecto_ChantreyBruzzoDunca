@@ -12,6 +12,8 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 
 Necesitarás Python 3 y las siguientes bibliotecas de Python instaladas en tu máquina:
 
+-IMPORTAMOS LAS LIBRERIAS NECESARIAS
+
 import pandas as pd
 
 import numpy as np
