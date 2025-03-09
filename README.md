@@ -69,5 +69,21 @@ warnings.filterwarnings('ignore')
 
 ### INSTALACIÓN
 
+Para instalar y ejecutar el proyecto en tu máquina local, sigue estos pasos:
+
+# Clonar el repositorio
+git clone [https://github.com/tu_usuario/proyecto-oscar.git](https://github.com/samuelmtr/Proyecto-7-bootcamp-UDD-Data-Samuel-Montero)
+
+# Navegar al directorio del proyecto
+cd proyecto-oscar
+
+# Instalar las dependencias
+pip install pandas numpy scikit-learn matplotlib
+
+# Ejecutar el script
+python proyecto_7_final.py
+# Proyecto-7-bootcamp-UDD-Data-Samuel-Montero
+Proyecto 7 bootcamp
+
 
 
