@@ -74,7 +74,7 @@ warnings.filterwarnings('ignore')
 Para instalar y ejecutar el proyecto en tu máquina local, sigue estos pasos:
 
 -  Clonar el repositorio
-git clone [https://github.com/tu_usuario/proyecto-oscar.git](https://github.com/Chantrey1972/Mod_7_Proyecto_ChantreyBruzzoDuncam)
+git clone [https://github.com/tu_usuario/proyecto-oscar.git](https://github.com/Chantrey1972/Mod_7_Proyecto_ChantreyBruzzoDuncan)
 
 - Navegar al directorio del proyecto
 cd proyecto-oscar
